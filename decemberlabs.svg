@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="36px" viewBox="0 0 32 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>80D58D52-A24E-4701-BC64-B84307D516C7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3E63FE" offset="0%"></stop>
+            <stop stop-color="#3EE2FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Case-Databook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Case-Databook-Hovers-Copy" transform="translate(-151.000000, -20.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-17" transform="translate(0.000000, -1063.000000)">
+                <g id="Hero-Section">
+                    <g id="Nav_transparent" transform="translate(0.000000, 1061.000000)">
+                        <g id="DL-logo" transform="translate(151.000000, 22.000000)">
+                            <path d="M8.21120294e-15,3.83494641 C7.95033709e-15,1.71696399 1.7268126,3.89067058e-16 3.8569439,0 L13.3664529,0 C24.3862926,0 32,7.73294756 32,17.8216275 C32,28.0127306 24.3862926,35.8481013 13.3664529,35.8481013 L3.8569439,35.8481013 C1.7268126,35.8481013 4.99070747e-15,34.1311373 0,32.0131549 L8.21120294e-15,3.83494641 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
