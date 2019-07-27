@@ -13,7 +13,7 @@ function isInViewport(elem) {
     );
 };
 
-window.onscroll = () => {
+const on_scroll = () => {
     const sections = ['summary', 'skills', 'experience', 'education'];
     const html_sections = sections.map(section => document.getElementById(section));
 
@@ -45,3 +45,7 @@ window.onscroll = () => {
     if(on_view.length)
         console.log('Currently in view: ', on_view);
 }
+
+on_scroll();
+
+window.onscroll = on_scroll;
