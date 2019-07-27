@@ -308,6 +308,8 @@ hr {
     position: -webkit-sticky;
     position: sticky;
     top: 10px;
+
+    margin-bottom: 30px;
 }
 
 .profile .profile_picture {
@@ -610,6 +612,10 @@ hr {
         flex-wrap: wrap;
     }
 
+    .profile {
+        margin-bottom: 0;
+    }
+
     .profile .profile_picture {
         height: 270px;
     }
@@ -624,6 +630,7 @@ hr {
 
     .details_wrapper {
         padding-left: 5px;
+        margin: 0;
     }
 
     .details {
