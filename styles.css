@@ -162,7 +162,6 @@ a.label_hollow::before {
 a.label_hollow:hover {
     color: #161616;
     border-color: #78cc6d;
-    font-weight: bold;
 }
   
 a.label_hollow:hover::before {
@@ -506,6 +505,20 @@ hr {
     margin-bottom: 5px;
 }
 
+.details .skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.details .skills .chips {
+    width: 45%;
+    padding: 12px;
+}
+
+.details .skills .chips:hover {
+    background: #3e41483f;
+}
+
 /* Experience */
 
 .experience_section {
@@ -668,5 +681,10 @@ hr {
 
     .experience_company.border_right::before {
         content: none;
+    }
+
+    .details .skills .chips {
+        width: 100%;
+        margin: 0;
     }
 }
