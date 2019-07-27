@@ -55,6 +55,10 @@ a:hover {
     color: #78cc6d;
 }
 
+a.active {
+    color: #78cc6d;
+}
+
 a.primary {
     padding: 7px;
     border-radius: 5px;
@@ -588,6 +592,10 @@ hr {
 }
 
 @media only screen and (max-width: 550px) {
+    html, body {
+        background: none;
+    }
+    
     .card {
         -webkit-box-shadow: none;
         -moz-box-shadow: none;
