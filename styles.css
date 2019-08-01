@@ -606,6 +606,14 @@ hr {
     font-size: 15px;
 }
 
+.copyright {
+    position: absolute;
+    bottom: -10px;
+    
+    border-radius: 8px;
+    background: #1616161a
+}
+
 @media only screen and (max-width: 550px) {
     html, body {
         background: none;
