@@ -433,16 +433,13 @@ hr {
     border-radius: inherit;
 
     position: relative;
-
-    display: flex;
-    flex-direction: row;
 }
 
 .profile .profile_footer a {
     position: relative;
     display: block;
     height: 100%;
-    width: 50%;
+    width: 100%;
     font-weight: bold;
 
     display: flex;
